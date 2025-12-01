@@ -2,6 +2,8 @@
 
 ---
 
+<img width="586" height="485" alt="image" src="https://github.com/user-attachments/assets/7c21305e-2e09-4e6d-8bf4-941619c561b1" />
+
 Funções da Interface
 
 1) Carregar um arquivo CSV ou Excel
